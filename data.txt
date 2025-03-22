@@ -1,0 +1,22 @@
+//project build in this format.:
+
+base set up all we have learned.
+
+we're going to build a app, where users can create posts.
+users creation
+login and register functionality.
+log out add karna hai.
+post can like by other users.
+post can edit or delete by that user only who created it.
+
+now post deleted.
+Multer use to uplad image for user profile.
+user can remove that profile also.
+front page to website. full app is ready. 
+
+
+api testing with thunder client and postman:
+
+User:CRUD
+Post:CRUD
+User login,profile feed view and logout.

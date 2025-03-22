@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Upload</title>
+    <script src="https://cdn.tailwindcss.com"></script>    
+</head>
+<body>
+    <div class="w-full min-h-screen bg-zinc-900 text-white p-10">
+        <h1 class="text-3xl mb-5">Welcome to Bloggers</h3>    
+        <h3 class="text-3xl mb-5">Upload Profile Picture </h3>
+        <form action="/remove" method="POST">
+            <button class="px-5 py-2 rounded-xl outline-none bg-red-500 border-2 border-zinc-500" type="submit">
+                Remove Pic
+            </button>
+        </form>       <form autocomplete="off" action="/upload" method="post" enctype="multipart/form-data">
+           <input type="file" name="image" >
+            <button class="px-5 py-2 rounded-xl outline-none bg-blue-500 border-2 border-zinc-500" type="submit">Upload</button> 
+            
+        </form>
+    </div>
+    
+</body>
+</html>
