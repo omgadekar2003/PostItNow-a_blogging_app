@@ -88,6 +88,3 @@ I never wanted to learn backend development, but **Harsh Sharma** inspired me to
 📌 **Author:** *Your Name*  
 📌 **GitHub:** [omgadekar2003](https://github.com/omgadekar2003)  
 📌 **LinkedIn:** [om gadekar](https://linkedin.com/in/omgadekar)
-
-
-Replace `yourusername`, `your-repo-name`, and `your-profile` with your actual details. Let me know if you need modifications! 🚀
