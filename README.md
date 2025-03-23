@@ -52,20 +52,20 @@ This is a **RESTful API** built using **Node.js**, **Express.js**, and **MongoDB
 ## 🛠️ Installation & Setup
 1. **Clone the repository**
    bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/omgadekar2003/PostItNow-a_blogging_app.git)
    cd your-repo-name
   
-2. **Install dependencies**
+3. **Install dependencies**
    bash
    npm install
  
-3. **Create a `.env` file and add the following variables**
+4. **Create a `.env` file and add the following variables**
  
    PORT=5000
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_secret_key
   
-4. **Run the server**
+5. **Run the server**
   bash
    npm start
  
